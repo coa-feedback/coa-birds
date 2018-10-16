@@ -1,0 +1,55 @@
+Report for Institution Code COA, Resource coa_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 36
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-26 ; Times: 7
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aves institutioncode:COA hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "vntype:specimen family: Cuculidae (WS)" ; Times: 1
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 2
+	Query: "vntype:specimen family: Anhingidae (WS)" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "genus:Alca specificepithet:torda" ; Times: 2
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sandvicensis genus:Branta" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+
+
+End of report.
