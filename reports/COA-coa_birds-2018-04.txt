@@ -1,0 +1,49 @@
+Report for Institution Code COA, Resource coa_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1899 year &lt;= 1900" ; Times: 1
+	Query: "colinus vntype:specimen maine" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1359 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "Cathartes aura hasmass:1" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+
+
+End of report.
