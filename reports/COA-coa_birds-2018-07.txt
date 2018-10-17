@@ -1,0 +1,47 @@
+Report for Institution Code COA, Resource coa_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ws genus:Anhinga" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1500 year &lt;= 1940" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 977 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+
+
+End of report.
