@@ -1,0 +1,64 @@
+Report for Institution Code COA, Resource coa_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Guatemala ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 6
+	Date: 2019-06-10 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anhinga specificepithet:anhinga" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 1
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 1
+	Query: "genus:Alca specificepithet:torda" ; Times: 1
+	Query: "genus:Ara specificepithet:macao" ; Times: 2
+	Query: "genus:Oceanites specificepithet:oceanicus" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1182 download events in this period)
+Total number of records downloaded: 26
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 3
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bald eagle" ; Times: 7
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Bald Eagle" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "bald eagle north america" ; Times: 1
+	Query: "SNAILS" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 2
+
+
+End of report.
